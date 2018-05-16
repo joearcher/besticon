@@ -15,9 +15,9 @@ import (
 	"strings"
 
 	"github.com/NYTimes/gziphandler"
-	"github.com/mat/besticon/besticon"
-	"github.com/mat/besticon/besticon/iconserver/assets"
-	"github.com/mat/besticon/lettericon"
+	"github.com/joearcher/besticon/besticon"
+	"github.com/joearcher/besticon/besticon/iconserver/assets"
+	"github.com/joearcher/besticon/lettericon"
 
 	// Enable runtime profiling at /debug/pprof
 	_ "net/http/pprof"
